@@ -1,0 +1,19 @@
+Acne
+Actinic Carcinoma
+Atopic Dermatitis
+Cellulitis
+Eczema
+Drug Eruptions
+Herpes HPV
+Light Diseases
+Lupus
+Melanoma
+Poison IVY
+Psoriasis
+Benign Tumors
+Systemic Disease
+Ringworm
+Urticarial Hives
+Vascular Tumors
+Vasculitis
+Viral Infections
